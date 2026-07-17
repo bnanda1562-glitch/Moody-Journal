@@ -1,0 +1,347 @@
+{
+  "User": [
+    {
+      "_id": "one7ktklsm4rs5ztsv",
+      "createdAt": "2026-07-06T13:36:25.427Z",
+      "name": "brinda",
+      "email": "bnanda1562@gmail.com",
+      "password": "$2a$10$bc4Ii.UUDWknPqHufJxBgeOoP5XgiCxW.CINHbgvceJdT7gAJImym",
+      "role": "admin",
+      "streakCount": 1,
+      "lastJournalDate": "2026-07-06"
+    }
+  ],
+  "Journal": [
+    {
+      "_id": "z2xeennkgjn3jwuwbk",
+      "createdAt": "2026-07-06T17:34:24.226Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello..my day was good.",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 75,
+      "stressLevel": 15,
+      "positivityScore": 65,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 75,
+        "stressLevel": 15,
+        "positivityScore": 65,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "bka4ps0aq9fjrndhha",
+      "createdAt": "2026-07-06T17:34:49.738Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello..my name is brinda",
+      "mood": "Neutral",
+      "isDraft": true,
+      "tags": [],
+      "image": "",
+      "emotionScore": 50,
+      "stressLevel": 20,
+      "positivityScore": 50,
+      "AIAnalysis": {}
+    },
+    {
+      "_id": "kztk3wonq4rysrfk0m",
+      "createdAt": "2026-07-06T17:35:37.837Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "hello Reflection",
+      "content": "hello",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [
+        "happy"
+      ],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "dpirym4he4851nt8xu",
+      "createdAt": "2026-07-06T17:36:28.722Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "b0pkx6bx2p4ucetrv6",
+      "createdAt": "2026-07-06T17:41:48.307Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "j0a9jaarj41va1wkpb",
+      "createdAt": "2026-07-06T17:54:24.191Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello..i am feeling good today",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 75,
+      "stressLevel": 15,
+      "positivityScore": 65,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 75,
+        "stressLevel": 15,
+        "positivityScore": 65,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "3o4t8tjrg0cwt2qqhl",
+      "createdAt": "2026-07-06T17:54:52.716Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "rjv27ebv9d6ub7na70",
+      "createdAt": "2026-07-06T17:55:32.422Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hie",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "gdyh53117iv7n5sm53",
+      "createdAt": "2026-07-06T18:01:23.276Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    },
+    {
+      "_id": "qrx8ur7fh9rdxbvin4",
+      "createdAt": "2026-07-06T18:05:08.213Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Untitled Reflection",
+      "content": "hello",
+      "mood": "Neutral",
+      "isDraft": false,
+      "tags": [],
+      "image": "",
+      "emotionScore": 68,
+      "stressLevel": 20,
+      "positivityScore": 55,
+      "AIAnalysis": {
+        "emotion": "Neutral",
+        "emotionScore": 68,
+        "stressLevel": 20,
+        "positivityScore": 55,
+        "feedback": "Thank you for sharing your thoughts today. Reflecting on your experiences helps build mindfulness and self-awareness.",
+        "activities": [
+          "Go for a light walk",
+          "Read a book",
+          "Plan your tomorrow"
+        ],
+        "quote": "The unexamined life is not worth living. - Socrates",
+        "patterns": "Reflections are centered around personal routine and inner thoughts."
+      }
+    }
+  ],
+  "VoiceJournal": [],
+  "Notification": [
+    {
+      "_id": "4myoyn9986193ki336",
+      "createdAt": "2026-07-06T13:39:19.074Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Daily Reminder",
+      "message": "You haven't written today's journal yet. Take 2 minutes to record your thoughts!",
+      "type": "reminder"
+    },
+    {
+      "_id": "g3cujyi6s78fjv577h",
+      "createdAt": "2026-07-07T00:36:20.272Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Daily Reminder",
+      "message": "You haven't written today's journal yet. Take 2 minutes to record your thoughts!",
+      "type": "reminder"
+    },
+    {
+      "_id": "7z9ym5v9iy5j4u32ky",
+      "createdAt": "2026-07-07T18:44:30.488Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Daily Reminder",
+      "message": "You haven't written today's journal yet. Take 2 minutes to record your thoughts!",
+      "type": "reminder"
+    },
+    {
+      "_id": "tk79ipd1mq7v762pve",
+      "createdAt": "2026-07-08T18:33:26.488Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "title": "Daily Reminder",
+      "message": "You haven't written today's journal yet. Take 2 minutes to record your thoughts!",
+      "type": "reminder"
+    }
+  ],
+  "Tracker": [
+    {
+      "_id": "l2r8tkfrmtpeknwhh0",
+      "createdAt": "2026-07-06T13:40:30.542Z",
+      "userId": "one7ktklsm4rs5ztsv",
+      "date": "2026-07-06",
+      "habits": [
+        {
+          "habitName": "Drink 2L Water",
+          "completed": false
+        },
+        {
+          "habitName": "Meditate 10 mins",
+          "completed": false
+        },
+        {
+          "habitName": "Read a book",
+          "completed": false
+        },
+        {
+          "habitName": "Go for a walk",
+          "completed": false
+        }
+      ],
+      "goals": []
+    }
+  ]
+}
